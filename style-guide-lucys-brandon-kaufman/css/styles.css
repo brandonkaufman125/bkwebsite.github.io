@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {color: #3A24B2; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+h2 {color: #684DFF; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+h3 {color: #684DFF; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+p {color: #000000; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";}
+
+
+body {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+a:link {color:#F743C2; text-decoration:none;}
+a:visited{color:#000000;}
+a:hover {background-color:#684DFF; color:white;}
+a:active{color:#D63A71;}
